@@ -12,10 +12,8 @@
 
 ### Project Structure
 
-README.md
-
-build.sbt
-
+- README.md
+- build.sbt
 - src - main - scala - SearchApp.scala
 - src - test - resources
 - src - test - scala - FinderSpec.scala
