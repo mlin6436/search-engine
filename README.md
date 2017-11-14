@@ -13,11 +13,13 @@
 ### Project Structure
 
 README.md
+
 build.sbt
-src - main - scala - SearchApp.scala
-src - test - resources
-src - test - scala - FinderSpec.scala
-src - test - scala - SearcherSpec.scala
+
+- src - main - scala - SearchApp.scala
+- src - test - resources
+- src - test - scala - FinderSpec.scala
+- src - test - scala - SearcherSpec.scala
 
  In `main`, `SearchApp.scala` contains
  
