@@ -12,27 +12,12 @@
 
 ### Project Structure
 
-.
-├── README.md
-├── build.sbt
-└── src
-    ├── main
-    │   └── scala
-    │       └── SearchApp.scala
-    └── test
-        ├── resources
-        │   ├── dir
-        │   │   └── test.txt
-        │   └── foo
-        │       ├── 1.txt
-        │       ├── 2.txt
-        │       ├── 3.txt
-        │       └── bar
-        │           └── test.txt
-        └── scala
-            ├── FinderSpec.scala
-            └── SearcherSpec.scala
- 
+README.md
+build.sbt
+src - main - scala - SearchApp.scala
+src - test - resources
+src - test - scala - FinderSpec.scala
+src - test - scala - SearcherSpec.scala
 
  In `main`, `SearchApp.scala` contains
  
